@@ -7,12 +7,12 @@
   <description>Free web building tutorials</description>
   <item>
     <title>Marcado</title>
-    <link>marcado.html</link>
+    <link>https://giuseppecr.github.io/WEB/marcado.html</link>
     <description>Formulario para llenar</description>
   </item>
   <item>
     <title>Cursos</title>
-    <link>cursos.html</link>
+    <link>https://giuseppecr.github.io/WEB/cursos.html</link>
     <description>New XML tutorial on W3Schools</description>
   </item>
 </channel>
