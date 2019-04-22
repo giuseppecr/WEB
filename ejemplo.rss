@@ -2,8 +2,8 @@
 <rss version="2.0">
 
 <channel>
-  <title>Cursos</title>
-  <link>cursos.html</link>
+  <title>Index</title>
+  <link>https://giuseppecr.github.io/WEB/</link>
   <description>Free web building tutorials</description>
   <item>
     <title>Marcado</title>
@@ -11,8 +11,8 @@
     <description>Formulario para llenar</description>
   </item>
   <item>
-    <title>XML Tutorial</title>
-    <link>https://www.w3schools.com/xml</link>
+    <title>Cursos</title>
+    <link>cursos.html</link>
     <description>New XML tutorial on W3Schools</description>
   </item>
 </channel>
