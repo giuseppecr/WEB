@@ -2,12 +2,12 @@
 <rss version="2.0">
 
 <channel>
-  <title>ejemplo</title>
-  <link>https://giuseppecr.github.io/WEB/</link>
+  <title>Cursos</title>
+  <link>cursos.html</link>
   <description>Free web building tutorials</description>
   <item>
-    <title>formulario</title>
-    <link>https://giuseppecr.github.io/WEB/Ejercicio9.html</link>
+    <title>Marcado</title>
+    <link>marcado.html</link>
     <description>Formulario para llenar</description>
   </item>
   <item>
