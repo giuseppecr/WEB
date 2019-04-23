@@ -8,12 +8,28 @@
   <item>
     <title>Marcado</title>
     <link>https://giuseppecr.github.io/WEB/marcado.html</link>
-    <description>Formulario para llenar</description>
+    <description>Presentamos la definicion y algunos terminos del lenguaje de marcado</description>
   </item>
   <item>
     <title>Cursos</title>
     <link>https://giuseppecr.github.io/WEB/cursos.html</link>
-    <description>New XML tutorial on W3Schools</description>
+    <description>Presentamos los cursos de nuestro FP Ilerna</description>
+  </item>
+  <item>
+    <title>Calor</title>
+    <link>https://giuseppecr.github.io/WEB/calor.html</link>
+    <description>El calor arrecia y eleva las máximas hasta casi 40 grados</description>
+  </item>
+  <item>
+    <title>Fiestas y Cultura</title>
+    <link>https://giuseppecr.github.io/WEB/fiestas.html</link>
+    <description>Turrón, helado, fiestas, agricultura, fuentes, patrimonio cultural...</description>
+  </item>
+  <item>
+    <title>Ejemplo de superacion</title>
+    <link>https://giuseppecr.github.io/WEB/superacion.html</link>
+    <description>Ejemplos de superación en el centro Las Clarisas 
+</description>
   </item>
 </channel>
 
